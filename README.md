@@ -38,7 +38,7 @@
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/facebook-scraper.git
+git clone https://github.com/BrayanBJ27/FB-Aluvion-RioVerde-Scraper.git
 cd facebook-scraper
 ```
 
